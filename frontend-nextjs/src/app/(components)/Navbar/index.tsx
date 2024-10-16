@@ -1,13 +1,17 @@
+<<<<<<< HEAD
 "use client";
 
 import { Bell, Menu, Settings, Sun } from 'lucide-react'
 import Link from 'next/link';
+=======
+>>>>>>> 722e8c471b4eb88494b0fbcc86920efcf3b18126
 import React from 'react'
 
 
 
 const Navbar = () => {
   return (
+<<<<<<< HEAD
     <div 
      className="flex justify-between items-center w-full mb-7"
     >
@@ -58,6 +62,9 @@ const Navbar = () => {
             </Link>
         </div>
     </div>
+=======
+    <div>Navbar</div>
+>>>>>>> 722e8c471b4eb88494b0fbcc86920efcf3b18126
   )
 }
 
